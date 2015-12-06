@@ -1,0 +1,2 @@
+Adds a streaming interface for S3 objects.
+This should be a pull request for Boto 3.
